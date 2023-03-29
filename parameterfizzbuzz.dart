@@ -1,4 +1,6 @@
 
+//paramet
+
 fizzBuzz({turn, turn_3, turn_5, turn_15}) {
   var str = '';
   if (turn_3) {//3의 배수 
